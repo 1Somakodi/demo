@@ -9,3 +9,8 @@ def greet(name):
     return f"Hello, {name}!"
 
 print(greet("Allan"))
+
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("Allan"))
